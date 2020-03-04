@@ -19,6 +19,8 @@ public:
 protected:
 	// Called when the game starts
 	virtual void BeginPlay() override;
+	void PrintName(const FString& Name) const;
+	void FindPosition();
 
 public:	
 	// Called every frame
