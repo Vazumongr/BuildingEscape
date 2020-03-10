@@ -1,0 +1,7 @@
+C:\Users\troy\Documents\Repositories\Githubslabs\BuildingEscape\BuildingEscapeUE4\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscapeUE4\Definitions.BuildingEscapeUE4.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\troy\Documents\Repositories\Githubslabs\BuildingEscape\BuildingEscapeUE4\Source\BuildingEscapeUE4/OpenDoor.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/TriggerVolume.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TriggerVolume.generated.h
+c:\users\troy\documents\repositories\githubslabs\buildingescape\buildingescapeue4\intermediate\build\win64\ue4editor\inc\buildingescapeue4\OpenDoor.generated.h
