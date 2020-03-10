@@ -13,9 +13,9 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define BUILDINGESCAPEUE4_Grabber_generated_h
 
-#define BuildingEscapeUE4_Source_BuildingEscapeUE4_Grabber_h_14_RPC_WRAPPERS
-#define BuildingEscapeUE4_Source_BuildingEscapeUE4_Grabber_h_14_RPC_WRAPPERS_NO_PURE_DECLS
-#define BuildingEscapeUE4_Source_BuildingEscapeUE4_Grabber_h_14_INCLASS_NO_PURE_DECLS \
+#define BuildingEscapeUE4_Source_BuildingEscapeUE4_Grabber_h_17_RPC_WRAPPERS
+#define BuildingEscapeUE4_Source_BuildingEscapeUE4_Grabber_h_17_RPC_WRAPPERS_NO_PURE_DECLS
+#define BuildingEscapeUE4_Source_BuildingEscapeUE4_Grabber_h_17_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGrabber(); \
 	friend struct Z_Construct_UClass_UGrabber_Statics; \
@@ -24,7 +24,7 @@ public: \
 	DECLARE_SERIALIZER(UGrabber)
 
 
-#define BuildingEscapeUE4_Source_BuildingEscapeUE4_Grabber_h_14_INCLASS \
+#define BuildingEscapeUE4_Source_BuildingEscapeUE4_Grabber_h_17_INCLASS \
 private: \
 	static void StaticRegisterNativesUGrabber(); \
 	friend struct Z_Construct_UClass_UGrabber_Statics; \
@@ -33,7 +33,7 @@ public: \
 	DECLARE_SERIALIZER(UGrabber)
 
 
-#define BuildingEscapeUE4_Source_BuildingEscapeUE4_Grabber_h_14_STANDARD_CONSTRUCTORS \
+#define BuildingEscapeUE4_Source_BuildingEscapeUE4_Grabber_h_17_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGrabber(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGrabber) \
@@ -46,7 +46,7 @@ private: \
 public:
 
 
-#define BuildingEscapeUE4_Source_BuildingEscapeUE4_Grabber_h_14_ENHANCED_CONSTRUCTORS \
+#define BuildingEscapeUE4_Source_BuildingEscapeUE4_Grabber_h_17_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UGrabber(UGrabber&&); \
@@ -57,29 +57,29 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGrabber); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UGrabber)
 
 
-#define BuildingEscapeUE4_Source_BuildingEscapeUE4_Grabber_h_14_PRIVATE_PROPERTY_OFFSET \
+#define BuildingEscapeUE4_Source_BuildingEscapeUE4_Grabber_h_17_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__PlayerReach() { return STRUCT_OFFSET(UGrabber, PlayerReach); }
 
 
-#define BuildingEscapeUE4_Source_BuildingEscapeUE4_Grabber_h_11_PROLOG
-#define BuildingEscapeUE4_Source_BuildingEscapeUE4_Grabber_h_14_GENERATED_BODY_LEGACY \
+#define BuildingEscapeUE4_Source_BuildingEscapeUE4_Grabber_h_14_PROLOG
+#define BuildingEscapeUE4_Source_BuildingEscapeUE4_Grabber_h_17_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	BuildingEscapeUE4_Source_BuildingEscapeUE4_Grabber_h_14_PRIVATE_PROPERTY_OFFSET \
-	BuildingEscapeUE4_Source_BuildingEscapeUE4_Grabber_h_14_RPC_WRAPPERS \
-	BuildingEscapeUE4_Source_BuildingEscapeUE4_Grabber_h_14_INCLASS \
-	BuildingEscapeUE4_Source_BuildingEscapeUE4_Grabber_h_14_STANDARD_CONSTRUCTORS \
+	BuildingEscapeUE4_Source_BuildingEscapeUE4_Grabber_h_17_PRIVATE_PROPERTY_OFFSET \
+	BuildingEscapeUE4_Source_BuildingEscapeUE4_Grabber_h_17_RPC_WRAPPERS \
+	BuildingEscapeUE4_Source_BuildingEscapeUE4_Grabber_h_17_INCLASS \
+	BuildingEscapeUE4_Source_BuildingEscapeUE4_Grabber_h_17_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define BuildingEscapeUE4_Source_BuildingEscapeUE4_Grabber_h_14_GENERATED_BODY \
+#define BuildingEscapeUE4_Source_BuildingEscapeUE4_Grabber_h_17_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	BuildingEscapeUE4_Source_BuildingEscapeUE4_Grabber_h_14_PRIVATE_PROPERTY_OFFSET \
-	BuildingEscapeUE4_Source_BuildingEscapeUE4_Grabber_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
-	BuildingEscapeUE4_Source_BuildingEscapeUE4_Grabber_h_14_INCLASS_NO_PURE_DECLS \
-	BuildingEscapeUE4_Source_BuildingEscapeUE4_Grabber_h_14_ENHANCED_CONSTRUCTORS \
+	BuildingEscapeUE4_Source_BuildingEscapeUE4_Grabber_h_17_PRIVATE_PROPERTY_OFFSET \
+	BuildingEscapeUE4_Source_BuildingEscapeUE4_Grabber_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
+	BuildingEscapeUE4_Source_BuildingEscapeUE4_Grabber_h_17_INCLASS_NO_PURE_DECLS \
+	BuildingEscapeUE4_Source_BuildingEscapeUE4_Grabber_h_17_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
