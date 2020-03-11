@@ -29,9 +29,11 @@ protected:
 
 private:
 	UPROPERTY(EditAnywhere)
-	float PlayerReach = 300.f;
+	float PlayerReach = 150.f;
 
+	UPROPERTY()
 	UInputComponent* InputComponent = nullptr;
+	UPROPERTY()
 	UPhysicsHandleComponent* PhysicsHandle = nullptr;
 
 	void Grab();
@@ -39,7 +41,13 @@ private:
 	void FindPhysicsHandle();
 	void SetupInputComponent();
 
+	//Get the players reach
+	FVector FindLineTraceEnd() const;
+
 	//Return the first actor within reach with a physics body
 	FHitResult GetFirstPhysicsBodyInReach() const;
+
+	//Get the playes location in world
+	FVector GetPlayersWorldPos() const;
 		
 };

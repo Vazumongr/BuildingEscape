@@ -2,6 +2,8 @@ C:\Users\troy\Documents\Repositories\Githubslabs\BuildingEscape\BuildingEscapeUE
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
 C:\Users\troy\Documents\Repositories\Githubslabs\BuildingEscape\BuildingEscapeUE4\Source\BuildingEscapeUE4/OpenDoor.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/AudioComponent.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioComponent.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/TriggerVolume.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TriggerVolume.generated.h
 c:\users\troy\documents\repositories\githubslabs\buildingescape\buildingescapeue4\intermediate\build\win64\ue4editor\inc\buildingescapeue4\OpenDoor.generated.h
